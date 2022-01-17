@@ -1,0 +1,3 @@
+# since the Docker CLI has to send everything to the Daemon
+# you should ignore all useless files/folders
+node_modules

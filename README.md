@@ -1,0 +1,1 @@
+To launch the app, run `npm start`. Make sure you have Docker installed on your machine.
